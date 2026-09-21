@@ -10,3 +10,6 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# 运行期编排状态与事件日志
+data/
